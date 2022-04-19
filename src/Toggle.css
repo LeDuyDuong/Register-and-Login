@@ -1,0 +1,10 @@
+.base{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.base button{
+    font-size: 50px;
+}

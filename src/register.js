@@ -18,7 +18,7 @@ export default function Register(){
             </div>
             <div className="submit">
                 <button className="submit-1">
-                    <a className="submit-1" href="https://www.youtube.com/watch?v=a3Z7zEc7AXQ">Sign In</a>
+                    <a className="submit-1" href="https://www.youtube.com/watch?v=a3Z7zEc7AXQ">Sign Up</a>
                 </button>
             </div>
         </div>
